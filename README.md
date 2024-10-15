@@ -1,6 +1,6 @@
 # CoNLL-Splitter
 
-CoNLL-Splitter is a Jupyter notebook tool designed to split CoNLL (Conference on Natural Language Learning) formatted files into training, validation, and testing sets. This tool is particularly useful for researchers and practitioners working with NLP tasks that use CoNLL-formatted data.
+CoNLL-Splitter is a Jupyter notebook tool designed to split CoNLL (Conference on Natural Language Learning) formatted files into training, validation, and testing sets. This tool is particularly useful for researchers and practitioners working with NLP tasks that use CoNLL-formatted data. Please check the CoNLL files in "samples" folder to learn about the compatible formats.
 
 ## Features
 
